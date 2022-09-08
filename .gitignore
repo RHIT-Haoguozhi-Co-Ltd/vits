@@ -8,6 +8,7 @@ __pycache__
 .*.swp
 models
 dataset
+wavs
 
 
 build
